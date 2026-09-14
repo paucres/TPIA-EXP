@@ -21,4 +21,16 @@ Para un correcto desempeño en el curso, los contenidos se deben seguir en el si
 8. **Algoritmos de Regresión:** Esta carpeta contendrá el séptimo tema de la asignatura - _Tema VII - Regresión_
 9. **Algoritmos de Asociación:** Esta carpeta contendrá el octavo tema de la asignatura - _Tema VIII - Asociación_
 10. **No Code / Low Code / Vibe Coding:** Esta carpeta contendrá el noveno tema de la asignatura - _Tema IX - Citicen Data Scientist_
-11. **Aplicaciones de Inteligencia Artificial:** Esta carpeta contendrá el décimo tema de la asignatura - _Tema X - Aplicaciones_ 
+11. **Aplicaciones de Inteligencia Artificial:** Esta carpeta contendrá el décimo tema de la asignatura - _Tema X - Aplicaciones_
+
+**¿Quieres seguir este curso utilizando Google Colab?:** Clona el repositorio con el siguiente código:
+
+```
+!git clone https://github.com/paucres/TPIA-EXP.git
+```
+
+**Usas VS Code?:** Clona el repositorio con el siguiente código:
+
+```
+git clone https://github.com/paucres/TPIA-EXP.git
+```
