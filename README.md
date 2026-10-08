@@ -16,7 +16,7 @@ Para un correcto desempeño en el curso, los contenidos se deben seguir en el si
 3. **Estructuras de Datos:** Esta carpeta contiene el segundo tema de la asignatura - _Tema II - Estructuras de Datos_
 4. **Pandas:** Esta carpeta contendrá el tercer tema de la asignatura - _Tema III - Pandas_
 5. **Análisis Exploratorio de Datos (EDA):** Esta carpeta contendrá el cuarto tema de la asignatura - _Tema IV - EDA_
-6. **Ingeniería de Características:** Esta carpeta contendrá el quinto tema de la asignatura - _Tema V - FE_
+6. **Ingeniería de Características (FE):** Esta carpeta contendrá el quinto tema de la asignatura - _Tema V - FE_
 7. **Algoritmos de Clasificación:** Esta carpeta contendrá el sexto tema de la asignatura - _Tema VI - Clasificación_
 8. **Algoritmos de Regresión:** Esta carpeta contendrá el séptimo tema de la asignatura - _Tema VII - Regresión_
 9. **Algoritmos de Asociación:** Esta carpeta contendrá el octavo tema de la asignatura - _Tema VIII - Asociación_
