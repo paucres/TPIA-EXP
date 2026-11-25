@@ -23,6 +23,12 @@ Para un correcto desempeño en el curso, los contenidos se deben seguir en el si
 10. **No Code / Low Code / Vibe Coding:** Esta carpeta contendrá el noveno tema de la asignatura - _Tema IX - Citicen Data Scientist_
 11. **Aplicaciones de Inteligencia Artificial:** Esta carpeta contendrá el décimo tema de la asignatura - _Tema X - Aplicaciones_
 
+Todas las librerías, paquetes y dependencias necesarias para seguir este curso las puedes instalar a partir del fichero de requerimientos:
+
+```
+pip install -r requirements.txt
+```
+
 **¿Quieres seguir este curso utilizando Google Colab?:** Clona el repositorio con el siguiente código:
 
 ```
